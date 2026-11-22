@@ -27,8 +27,8 @@ a Convolutional Neural Network.
 
 - Dataset: MNIST
 - Model: CNN
-- Reported Accuracy: 98.79%
-- Test Loss: 0.0355
+- Reported Accuracy: 99.22%
+- Test Loss: 0.0245
 
 [View Task 3](Task3_HandwrittenRecognition)
 
